@@ -42,7 +42,3 @@ UPI has revolutionized digital payments
 in India. This analysis helps understand
 payment patterns, fraud detection and
 state wise adoption of UPI technology.
-
-## 📬 Connect With Me
-- LinkedIn: (your link)
-- Email: (your email)
